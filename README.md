@@ -26,9 +26,9 @@ We used a pre-trained ResNet50 model as the backbone network and added a fully c
 
 Below are some examples of the plant disease classification results:
 
-![Result 1]("Model Predictions/pred_1.png")
+![Result 1](testing/pred_1.png)
 
-![Result 2]("Model Predictions/pred_2.png")
+![Result 2](testing/pred_2.png)
 
 ![Result 3](train.png)
 
