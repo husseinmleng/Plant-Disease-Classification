@@ -32,7 +32,7 @@ Below are some examples of the plant disease classification results:
 
 ![Result 3](train.png)
 
-![Result 4](test.png)
+![Result 4](val.png)
 
 
 As shown in the results, our model is able to accurately classify different plant diseases with high accuracy.
